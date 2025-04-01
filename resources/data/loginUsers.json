@@ -1,0 +1,59 @@
+{ 
+
+   "Signuppage_without_password":
+   {
+        
+		"Username":"123456"
+   
+   }
+   ,
+   "Signuppage_without_Username":
+   {
+        
+		"Password":"123456"
+   
+   },
+    "Signuppage_with_Username_Password_Already_Exit":
+   {
+        
+		"Username":"jk1",
+		"Password":"123456"
+   
+   },
+
+    "Signuppage_with_Username_Password":
+   {
+        
+		"Username":"ka1ka13",
+		"Password":"123456"
+   
+   },
+
+
+     "Loginpage_Without_Password":
+	{
+		"Username":"jaywantkadam",
+	},
+		
+	 "Loginpage_Without_Username":
+	{
+	
+		"Password":"123456"
+	},
+			
+	 "Loginpage_With_UsernamePassword_notexist":
+	{
+	
+		"Username":"ldgdhdjdj",
+		"Password":"123ww456"
+	},
+			
+	 "Loginpage_With_UsernamePassword":
+	{
+	
+		"Username":"ka1ka12",
+		"Password":"123456"
+	}
+	
+	
+}

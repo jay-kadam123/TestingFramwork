@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+<!-- Registerpage expected data start-->
+<!-- expected mobile number -->
+<string name="Expected_Mobile_Exist_Number_of_customer">Mobile number already exist</string>
+<string name="Expected_RegisterEnterOTPToast_Message">Please enter OTP</string>
+<string name="Expected_InvalidOTPToast_Message">Invalid OTP</string>
+<string name="Expected_EnterReferralCode">Please enter the referral code</string>
+<string name="Expected_InvalidReferralCode">Invalid Referal Code</string>
+<string name="Expected_EnterStateToast_Message">Select your state</string>
+<string name="Expected_EnterCityToast_Message">Select your city</string>
+<string name="Expected_Cong_Register_Message">Congratulations, Your account has been created successfully.</string>
+<!-- Registerpage expected data end-->
+
+
+<!-- Dashboardpage expected data start-->
+<string name="Expected_AccountType_Of_Customer">Plumber</string>
+<string name="Expected_DashPoints_Of_Customer">0</string>
+<!-- Dashboardpage expected data end-->
+
+
+<!-- loginPage expected data start-->
+<string name="Expected_EnterOTPToast_Message">Please enter OTP !</string>
+<string name="Expected_AcceptTermsCondition_Message">Please accept terms and conditions !</string>
+<string name="Expected_Invalid_OTP_Message">Invalid OTP !</string> 
+<!-- Expected Invalid Number Message  -->
+<string name="Expected_Invalid_MobileNumber_Message">Mobile number does not exist</string> 
+<!-- loginPage expected data end-->
+
+
+<!-- LodgeQuery expected data start-->
+<string name="Expected_LodgeQueryToast_1">Select Topic to Lodge a Query</string> 
+<string name="Expected_LodgeQueryToast_2">Query submitted successfully.</string> 
+<string name="Expected_Row_Query_Status_txt">Pending</string> 
+<!-- LodgeQuery expected data end-->
+
+
+<!-- D_MyProfilePageTest expected data start-->
+<string name="Expected_Add_identity_Toast_1">Please add both identity attachment</string>  
+<string name="Expected_permission_denied_toast_1">Permission Denied</string>  
+<string name="Expected_Add_identity_Toast_1">Please add both identity attachment</string> 
+<string name="Expected_KYC_Submitted_Toast_1">KYC Submitted Successfully</string>   
+<!-- D_MyProfilePageTest expected data end-->
+
+
+<!-- ReferMyFriendTest expected data start-->
+<string name="Expected_Refer_Message_1">Successfully referred to your friend!</string> 
+<string name="Expected_Refer_Message_2">This mobile number already referred</string> 
+<string name="Expected_Refer_Message_3">Enter a valid mobile number</string>
+<string name="Expected_Refer_Message_4">Enter Mobile Number</string>
+<!-- ReferMyFriendTest expected data end-->
+
+
+<!-- F_Upload_Code_PageTest1 expected data start-->
+<string name="Expected_Alert_Message1">Enter your code</string> 
+<string name="Expected_Alert_Message2">Please scan/upload the code</string>
+<string name="Expected_Alert_Message3">Qr code is invalid</string> 
+<string name="Expected_Alert_Message4">Please enter code with 9 or 10 digit</string> 
+<string name="Expected_QR_Code_Submitted_toast">QR code submitted successfully </string> 
+<string name="Expected_Msg_in_Code_Status">Success but points not credited</string>
+<string name="Expected_QR_Code_Submitted_toast_2">QR code submitted successfully </string> 
+<string name="Expected_Msg_in_Code_Status_2">Success and points credited</string>
+<string name="Expected_Msg_in_Code_Status_3">Code Already Banked by You</string>
+<string name="Expected_Msg_in_Code_Status_4">Code Already Used by Others</string>
+<string name="Expected_Msg_in_Code_Status_5">Code already exists</string>
+<!-- J_Product_1_Points_Active_Code_PageTest2 expected data end-->
+
+
+<!-- MyEarning expected data start-->
+<string name="Expected__program_name">automationtesting</string>
+<string name="Expected__program_name_1">June 16 23 1611</string>
+<string name="Expected__program_name_2">June 16 23</string>
+<string name="Expected__program_name_3">BK plumber june scheme</string>
+<string name="Expected_points_1">10</string>
+<string name="Expected_points_2">30</string>
+<string name="Expected_points_3">20</string>
+<string name="Expected_points">400</string>
+<!-- MyEarning expected data end-->
+
+
+<!-- E_Scan_Code_PageTest1 expected data start-->
+<string name="Expected_Scan_Alert_Message1">Please scan/upload the code</string>
+<string name="Expected_Scan_Alert_Message2">Qr code is invalid</string> 
+<string name="Expected_Scan_Alert_Message3">Please enter code with 9 or 10 digit</string> 
+<string name="Expected_Scan_Alert_Message4">Code already exists</string> 
+<string name="Expected_Scan_Code_Submitted_toast">QR code submitted successfully </string> 
+<string name="Expected_Scan_Code_Msg_in_Code_Status_1">Success but points not credited</string>
+<string name="Expected_Scan_Code_Msg_in_Code_Status_2">Success and points credited</string>
+<string name="Expected_Scan_Code_Msg_in_Code_Status_3">Code Already Banked by You</string>
+<string name="Expected_Scan_Code_Msg_in_Code_Status_4">Code Already Used by Others</string>
+<!-- E_Scan_Code_PageTest1 expected data end-->
+
+
+<!-- K_PP_RedeemPageTest1_Search_Section_1 expected data start-->
+<string name="Expected_Message_for_kyc_verification">For Redemption, please complete the KYC verification process</string>
+<string name="Expected_Count_of_Cart_0">0</string>
+<string name="Expected_Add_To_Cart_Message">Added to cart</string>
+<string name="Expected_Add_To_Planner_Message">Added to planner</string>
+<string name="Expected_Message_for_RedemptionPlannerRemove">Redemption Planner has been removed successfully !</string>
+<string name="Expected_Product_Remove_Successfully_Toast">Product successfully removed to cart</string>
+<string name="Expected_Insufficient_point_balance_Message">Insufficient point balance to redeem!</string>
+<string name="Expected_No_Dealer_Mapped_Toast">You are not mapped to a dealer. Please contact the administrator.</string>
+<string name="Prod_Status_which_reddem">Posted for approval</string>
+<string name="Expected_ProductQuanitySuccessfullyUpdate_Toast">Product quantity successfully update</string>
+<string name="Expected_Invalid_OTP_Toast">Invalid OTP !</string> 
+<string name="Expected_shipping_address_Toast">Shipping address is required</string> 
+<string name="Expected_With0utOTPtoast">Please enter OTP !</string> 
+<string name="Expected_ProductSuccessfullyTxt">You Have Redeemed your product successfully</string> 
+<!-- K_PP_RedeemPageTest1_Search_Section_1 expected data end-->
+
+
+
+
+
+
+</resources>
